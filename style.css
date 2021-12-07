@@ -1,0 +1,38 @@
+.table {
+    margin: auto;
+    margin-top: 150px;
+    width: 80%;
+    text-align: center;
+    border-radius: 3px;
+    background-color: black;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 25px;
+    opacity: 0.7;
+}
+
+.thead-dark tr {
+    background-color: black;
+    color: white;
+}
+
+tbody {
+    color: white;
+}
+
+.page-holder {
+    min-height: 100vh;
+}
+
+.bg-cover {
+    background-size: cover !important;
+}
+
+.background {
+    border: 2px solid black;
+    padding: 25px;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
